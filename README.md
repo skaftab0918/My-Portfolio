@@ -6,7 +6,7 @@ The portfolio showcases my skills, featured projects, development journey, and c
 
 ## 🚀 Live Website
 
-**Portfolio:** Add your deployed portfolio URL here
+**Portfolio:** https://aftab-portfolio-pi-blond.vercel.app/
 
 ## 👨‍💻 About
 
